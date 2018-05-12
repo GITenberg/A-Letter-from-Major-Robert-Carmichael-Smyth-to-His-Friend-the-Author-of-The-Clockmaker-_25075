@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '28388'
     url: http://www.gutenberg.org/2009/agents/28388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25075#A-Letter-from-Major-Robert-Carmichael-Smyth-to-His-Friend-the-Author-of-The-Clockmaker-
 gutenberg_issued: '2008-04-15'
 gutenberg_type: Text
 identifiers:
